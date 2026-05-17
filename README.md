@@ -52,16 +52,6 @@ class Shihas:
 
 ---
 
-## 📌 Pinned Repositories
-
-| &nbsp; | Repository | Language | Details |
-|:------:|:----------|:--------:|:--------|
-| 🧠 | [**Multimodal-Depression-Detection**](https://github.com/shihas-36/Multimodal-Depression-Detection) | `Jupyter Notebook` | BERT + LSTM + Cross-Attention + Federated Learning for mental health risk · 🍴 1 |
-| 🔒 | [**StealthShare**](https://github.com/shihas-36/StealthShare) | `Python` | Secure stealth file sharing platform · 🍴 1 |
-| ⚽ | [**footboard**](https://github.com/shihas-36/footboard) | `Dart` | Real-time multiplayer Football Ludo — Android + Web · 🍴 1 |
-| 🌫️ | [**Air-Quality-Index-Prediction**](https://github.com/shihas-36/Air-Quality-Index-Prediction) | `Python` | 7-day AQI forecasts for Indian cities via Prophet ML · ⭐ 1 · 🍴 4 |
-| 🎓 | [**GPA-Calculator-and-Result-Analyzer**](https://github.com/shihas-36/GPA-Calculator-and-Result-Analyzer) | `Dart` | KTU academic platform — CGPA tracking, dashboards & role-based access |
-| 🏆 | [**Amazon-ML-challenge**](https://github.com/shihas-36/Amazon-ML-challenge) | `Python` | ML solution for Amazon's product attribute extraction challenge |
 
 ---
 
