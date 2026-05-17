@@ -48,14 +48,16 @@ class Shihas:
 
 ---
 
-## 📌 Featured Repositories
+## 📌 Pinned Repositories
 
 <div align="center">
 
-[![AQI Prediction](https://github-readme-stats.vercel.app/api/pin/?username=shihas-36&repo=Air-Quality-Index-Prediction&theme=github_dark&bg_color=060e1c&border_color=1a3f7c&title_color=60a5fa&text_color=6698e0&icon_color=3b72cc)](https://github.com/shihas-36/Air-Quality-Index-Prediction)
-[![GPA Calculator](https://github-readme-stats.vercel.app/api/pin/?username=shihas-36&repo=GPA-Calculator-and-Result-Analyzer&theme=github_dark&bg_color=060e1c&border_color=1a3f7c&title_color=60a5fa&text_color=6698e0&icon_color=3b72cc)](https://github.com/shihas-36/GPA-Calculator-and-Result-Analyzer)
-[![Football Ludo](https://github-readme-stats.vercel.app/api/pin/?username=shihas-36&repo=footboard&theme=github_dark&bg_color=060e1c&border_color=1a3f7c&title_color=60a5fa&text_color=6698e0&icon_color=3b72cc)](https://github.com/shihas-36/footboard)
-[![CGIP Assignment](https://github-readme-stats.vercel.app/api/pin/?username=shihas-36&repo=cgip-assnment3&theme=github_dark&bg_color=060e1c&border_color=1a3f7c&title_color=60a5fa&text_color=6698e0&icon_color=3b72cc)](https://github.com/shihas-36/cgip-assnment3)
+[![Multimodal Depression Detection](https://github-readme-stats.vercel.app/api/pin/?username=shihas-36&repo=Multimodal-Depression-Detection&theme=github_dark&bg_color=060e1c&border_color=1a3f7c&title_color=60a5fa&text_color=6698e0&icon_color=3b72cc)](https://github.com/shihas-36/Multimodal-Depression-Detection)
+[![StealthShare](https://github-readme-stats.vercel.app/api/pin/?username=shihas-36&repo=StealthShare&theme=github_dark&bg_color=060e1c&border_color=1a3f7c&title_color=60a5fa&text_color=6698e0&icon_color=3b72cc)](https://github.com/shihas-36/StealthShare)
+[![footboard](https://github-readme-stats.vercel.app/api/pin/?username=shihas-36&repo=footboard&theme=github_dark&bg_color=060e1c&border_color=1a3f7c&title_color=60a5fa&text_color=6698e0&icon_color=3b72cc)](https://github.com/shihas-36/footboard)
+[![Air-Quality-Index-Prediction](https://github-readme-stats.vercel.app/api/pin/?username=shihas-36&repo=Air-Quality-Index-Prediction&theme=github_dark&bg_color=060e1c&border_color=1a3f7c&title_color=60a5fa&text_color=6698e0&icon_color=3b72cc)](https://github.com/shihas-36/Air-Quality-Index-Prediction)
+[![GPA-Calculator-and-Result-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=shihas-36&repo=GPA-Calculator-and-Result-Analyzer&theme=github_dark&bg_color=060e1c&border_color=1a3f7c&title_color=60a5fa&text_color=6698e0&icon_color=3b72cc)](https://github.com/shihas-36/GPA-Calculator-and-Result-Analyzer)
+[![Amazon-ML-challenge](https://github-readme-stats.vercel.app/api/pin/?username=shihas-36&repo=Amazon-ML-challenge&theme=github_dark&bg_color=060e1c&border_color=1a3f7c&title_color=60a5fa&text_color=6698e0&icon_color=3b72cc)](https://github.com/shihas-36/Amazon-ML-challenge)
 
 </div>
 
@@ -65,10 +67,12 @@ class Shihas:
 
 | Project | Description | Tech |
 |---|---|---|
-| **Multimodal Depression Detection** | Text + sensor fusion for mental health risk assessment with Federated Learning | `TwHIN-BERT` `LSTM` `Cross-Attention` `TensorFlow` |
-| **Football Ludo** | Cross-platform real-time multiplayer board game · Android + Web | `Flutter` `Firebase` `Firestore` `Dart` |
-| **AQI Future Vision** | 7-day air quality forecasts for Indian cities · ⭐1 · Forks 4 | `Django` `React` `Prophet ML` |
-| **GPA Calculator & Result Analyzer** | KTU academic platform with CGPA tracking, dashboards & role-based access | `Flutter` `Django` `MySQL` |
+| **[Multimodal-Depression-Detection](https://github.com/shihas-36/Multimodal-Depression-Detection)** | Text + sensor fusion for mental health risk assessment with Federated Learning · Forks 1 | `TwHIN-BERT` `LSTM` `Cross-Attention` `Jupyter` `TensorFlow` |
+| **[StealthShare](https://github.com/shihas-36/StealthShare)** | Secure stealth file sharing platform · Forks 1 | `Python` |
+| **[footboard](https://github.com/shihas-36/footboard)** | Football-themed real-time multiplayer Ludo · Android + Web · Forks 1 | `Flutter` `Firebase` `Dart` |
+| **[Air-Quality-Index-Prediction](https://github.com/shihas-36/Air-Quality-Index-Prediction)** | 7-day AQI forecasts for Indian cities · ⭐1 · Forks 4 | `Django` `React` `Prophet ML` |
+| **[GPA-Calculator-and-Result-Analyzer](https://github.com/shihas-36/GPA-Calculator-and-Result-Analyzer)** | KTU academic platform with CGPA tracking, dashboards & role-based access | `Flutter` `Django` `MySQL` |
+| **[Amazon-ML-challenge](https://github.com/shihas-36/Amazon-ML-challenge)** | ML solution for Amazon's product attribute extraction challenge | `Python` `ML` |
 
 ---
 
