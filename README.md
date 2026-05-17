@@ -7,11 +7,6 @@
 
 <br/>
 
-[![Followers](https://img.shields.io/github/followers/shihas-36?style=for-the-badge&logo=github&label=Followers&color=60a5fa&labelColor=0d1b2e&logoColor=60a5fa)](https://github.com/shihas-36?tab=followers)
-[![Repos](https://img.shields.io/badge/Repos-10-60a5fa?style=for-the-badge&logo=github&labelColor=0d1b2e&logoColor=60a5fa)](https://github.com/shihas-36?tab=repositories)
-[![Stars](https://img.shields.io/badge/Stars-1-60a5fa?style=for-the-badge&logo=github&labelColor=0d1b2e&logoColor=60a5fa)](https://github.com/shihas-36)
-[![Views](https://komarev.com/ghpvc/?username=shihas-36&style=for-the-badge&color=0d1b2e&label=Profile+Views&logo=github)](https://github.com/shihas-36)
-
 </div>
 
 ---
